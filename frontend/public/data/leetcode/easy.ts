@@ -1,12 +1,5 @@
-// this is the main data structure for the easy leetcode questions
+// This file contains leetcode easy questions
 
-const leetcode_easy = [
-    {
-        quesnum: "",
-        questitle: "",
-        queslink: "",
-        soljava: "",
-        solcpp: "",
-        solpyth: ""
-    }
-]
+export const leetcode_easy = [
+    
+];
